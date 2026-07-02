@@ -1,8 +1,8 @@
 
-<h1 align="center">Hey, I'm Isha 👋</h1>
+<h1 align="center">Hey, I'm Isha!</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend Systems · Distributed Observability · AI-Integrated Applications</b><br/>
+  <b>Software Engineer · Backend Systems · Monitoring & Observability · Java </b><br/>
   <a href="mailto:khuranaisha00@gmail.com">khuranaisha00@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/ishakhurana-392224210/">LinkedIn</a> ·
   <a href="https://github.com/isha2610">GitHub</a> ·
@@ -15,7 +15,7 @@
 
 I'm a backend-focused Software Engineer with hands-on experience building distributed systems, designing service frameworks, and integrating AI into real-world applications.
 
-I've shipped production code across enterprise software (Newgen), travel-tech integrations (Duck Creek), and CRM platforms (Corporate Intellect Solutions) — spanning Java, Spring Boot, Python, and cloud-native tooling on Azure.
+I've shipped production code across enterprise software (Newgen) , insurance-tech integrations (Duck Creek), and CRM platforms (Corporate Intellect Solutions) — spanning Java, Spring Boot, Python, and cloud-native tooling on Azure.
 
 What drives me: designing systems that are observable, reliable, and built to last — not just systems that work in dev.
 
@@ -26,18 +26,11 @@ What drives me: designing systems that are observable, reliable, and built to la
 
 **Backend & Architecture:** Spring Boot · Microservices · REST APIs · System Design
 
-**Cloud & Observability:** Azure · Splunk · Monitoring & Observability
+**Monitoring & Observability:**  Splunk · Monitoring & Observability
 
-**Databases:** PostgreSQL · MongoDB · SQL
-
-**Testing:** JUnit5 · Mockito · TDD/BDD
-
-**Security:** OAuth2 · JWT · OWASP
-
-**AI/ML:** RAG (ChromaDB) · LLM Integration
+**Databases:** PostgreSQL · MongoDB · SQL · Oracle
 
 ---
-
 
 ## 🎓 Education
 
